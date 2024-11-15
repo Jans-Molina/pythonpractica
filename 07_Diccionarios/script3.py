@@ -76,4 +76,3 @@ for x, obj in mifamilia.items():
         print(y + ':', obj[y])
 
 print("")
-        
